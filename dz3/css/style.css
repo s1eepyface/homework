@@ -1,0 +1,13 @@
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+caption {
+  border: 1px solid black;
+  border-bottom: none;
+  font-weight: bold;
+}
+td,
+th {
+  border: 1px solid black;
+}
