@@ -1,0 +1,39 @@
+form {
+  border: 1px solid black;
+  border-radius: 10px;
+  max-width: 350px;
+  padding: 10px;
+  min-height: 250px;
+}
+.form-title {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.form-group {
+  border: 0px;
+}
+.label {
+  display: block;
+  font-size: 17px;
+  margin-bottom: 5px;
+}
+.input,
+textarea {
+  border: 1px solid black;
+  border-radius: 5px;
+  min-width: 250px;
+  min-height: 25px;
+  margin-bottom: 10px;
+}
+.textarea {
+  resize: vertical;
+}
+.button {
+  cursor: pointer;
+  min-height: 30px;
+  min-width: 30px;
+  background-color: #3e80e4;
+  border: none;
+  border-radius: 100px;
+}
